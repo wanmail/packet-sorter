@@ -25,7 +25,7 @@ git clone https://github.com/wanmail/packet-sorter
 
 Build the binary for your platform:
 ```
-make build build-x64
+make build-x64
 ```
 
 ## Usage
